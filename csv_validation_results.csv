@@ -1,0 +1,5 @@
+dataset,status,sha256,header_columns,physical_rows,valid_rows,malformed_rows,missing_required,invalid_labels,duplicate_pairs,label_0,label_1,row_lengths
+target_train,STRUCTURALLY VALID,1f7b267d78bc451dfa787bbcca23060dd706ca33847e60518dd93e1f208547f9,5,32000,32000,0,0,0,0,16031,15969,{5: 32000}
+target_test,STRUCTURALLY VALID,885b70993eb4bd8b12f3ec7258dd0644dcd48252ae992fbecbb8b15bcc8bb7e7,5,8000,8000,0,0,0,0,4008,3992,{5: 8000}
+shadow_train,STRUCTURALLY VALID,11ee354158c9fe91b2ca5342f86ac2a30f6f05da914afc9874bfd8946b4f744f,5,32000,32000,0,0,0,0,15969,16031,{5: 32000}
+shadow_test,REVIEW,cae4a0facc8395ca62ddd907dffab480e78e81bd85d598c99cb5e67b59d6cecc,243,8001,7999,0,1,1,0,3992,4007,{243: 8001}
